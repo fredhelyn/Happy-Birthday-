@@ -1,0 +1,61 @@
+body {
+  background-color: #cdc8e2;
+}
+
+h2 {
+  text-align: center;
+  margin: auto;
+  color: rgb(42, 45, 92);
+  font-family: 'Red Hat Mono', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  font-size: 50px;
+  font-family: 'Bagel Fat One', sans-serif;
+  color: rgb(158, 74, 236);
+}
+
+/* style for each h3 box */
+h3 {
+  border: 2px solid rebeccapurple;
+  padding: 2px;
+  font-family: 'Red Hat Mono', sans-serif;
+  font-size: 15px;
+  border-radius: 10px;
+  color: blueviolet;
+  width: 150px;
+  text-align: center;
+}
+
+/* layout for the two h3 boxes */
+.button-container {
+  display: flex;
+  justify-content: center; /* center horizontally */
+  gap: 40px; /* space between the boxes */
+  margin-top: 20px;
+}
+
+@media (max-width: 600px) {
+  h3 {
+    width: 100%; /* each box full width */
+    max-width: 250px; /* limit size a bit */
+  }
+
+  .button-container {
+    flex-direction: column; /* stack vertically on small screens */
+    align-items: center;
+    gap: 15px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+}
