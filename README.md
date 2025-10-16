@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,7 +6,6 @@
   <link href="https://fonts.cdnfonts.com/css/huntesla-gloficka" rel="stylesheet">
   <link href="https://fonts.cdnfonts.com/css/bagel-fat-one" rel="stylesheet">
   <link href="https://fonts.cdnfonts.com/css/red-hat-mono" rel="stylesheet">
-  <title>Happy Birth Day!</title>
 </head>
 <body>
   <br><br><br><br><br><br><br><br><br><br>
