@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="18th.css">
+  <link rel="stylesheet" href="18th.css">
   <link href="https://fonts.cdnfonts.com/css/huntesla-gloficka" rel="stylesheet">
   <link href="https://fonts.cdnfonts.com/css/bagel-fat-one" rel="stylesheet">
   <link href="https://fonts.cdnfonts.com/css/red-hat-mono" rel="stylesheet">
