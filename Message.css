@@ -43,7 +43,7 @@ h2 {
 }
 .back-btn {
   position: fixed;
-  top: 585px;              
+  top: 600px;              
   left: 65%;              
   transform: translateX(-240%); 
   background-color: rebeccapurple;
