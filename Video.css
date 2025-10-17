@@ -14,7 +14,7 @@ h1 {
   font-size: 15px;
   border-radius: 10px;
   color: blueviolet;
-  width: 450px;
+  width: 350px;
   height: 250px;
   text-align: center;
   display: flex;               
@@ -31,11 +31,13 @@ text-align: center;
   font-size: 30px;
 }
 h1 video {
-  width: 460px;
+  width: 360px;
   height: 260px;
   object-fit: cover;
   border-radius: 8px;
   background-color: #000; 
+
+}
 
 }
 .back-btn {
