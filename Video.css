@@ -40,8 +40,8 @@ h1 video {
 }
 .back-btn {
   position: fixed;
-  top: 35px;              
-  left: 52%;              
+  top: 555px;              
+  left: 65%;          
   transform: translateX(-240%); 
   background-color: rebeccapurple;
   color: white;
